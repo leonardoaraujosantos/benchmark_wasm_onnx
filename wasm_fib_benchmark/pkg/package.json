@@ -1,0 +1,11 @@
+{
+  "name": "wasm_fib_benchmark",
+  "version": "0.1.0",
+  "files": [
+    "wasm_fib_benchmark_bg.wasm",
+    "wasm_fib_benchmark.js",
+    "wasm_fib_benchmark.d.ts"
+  ],
+  "main": "wasm_fib_benchmark.js",
+  "types": "wasm_fib_benchmark.d.ts"
+}
