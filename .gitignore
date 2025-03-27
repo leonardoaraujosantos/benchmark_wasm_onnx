@@ -1,0 +1,15 @@
+# Rust
+/target
+**/*.rs.bk
+
+# wasm-pack output
+/pkg
+
+# Node
+node_modules
+*.log
+
+# IDEs
+.vscode
+.idea
+.DS_Store
