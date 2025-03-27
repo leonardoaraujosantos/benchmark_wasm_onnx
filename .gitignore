@@ -2,8 +2,6 @@
 /target
 **/*.rs.bk
 
-# wasm-pack output
-/pkg
 
 # Node
 node_modules
